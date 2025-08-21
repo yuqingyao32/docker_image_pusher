@@ -1,1 +1,1 @@
-redis:alpine
+ghcr.io/mendableai/playwright-service:latest
