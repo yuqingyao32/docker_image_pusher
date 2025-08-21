@@ -1,2 +1,1 @@
-ghcr.io/mendableai/firecrawl
-ghcr.io/mendableai/playwright-service:latest
+redis:alpine
